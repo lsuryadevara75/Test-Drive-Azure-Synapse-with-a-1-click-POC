@@ -25,16 +25,20 @@
 		},
 		"parameters": {
 			"SynapseWorkspaceName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "msf5yqmrfjd7hoocpocws1p1"
 			},
 			"SQLDedicatedPoolName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "msf5yqmrfjd7hoocpocws1"
 			},
 			"keyVaultName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "kvmsf5yqmrfjd7hoocpoc"
 			},
 			"SQLLoginUsername": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "sqluser"
 			}
 		},
 		"folder": {
